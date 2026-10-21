@@ -1,6 +1,6 @@
 # Hi, I'm Faith 👋
 
-Computer Science student at Uganda Christian University, based in Kampala. I build web apps and software tools.
+Computer Science student at Uganda Christian University, based in Mukono. I build web apps and software tools.
 
 ## What I work with
 - **Languages:** Python, JavaScript, C, SQL, HTML/CSS
@@ -8,10 +8,9 @@ Computer Science student at Uganda Christian University, based in Kampala. I bui
 - **Database and tools:** PostgreSQL, Git, GitHub
 
 ## Projects
-- **KAYVAK**: a concept for self-healing autonomous computing, with a prototype simulated in Wokwi. *(link to repo once it's on GitHub)*
-- **FarmWatch**: one line on what it does and who it's for. *(link to repo once it's on GitHub)*
-
+- **KAYVAK**:  an autonomic laptop fault-detection system for non-technical users, built around the MAPE-K self-adaptive loop, with a Django + React dashboard 
+- **FarmWatch**: AI-driven multipurpose farming machine for Ugandan smallholders and cooperatives, covering planting through processing on the farm. Working prototype: live web dashboard and a Tinkercad simulation of adaptive motor control.
 ## Contact
 - LinkedIn: [Faith Kirabo Kiggundu](https://www.linkedin.com/in/faith-kirabo-kiggundu)
 - Kaggle: [your-kaggle-username](https://www.kaggle.com/your-kaggle-username)
-- Email: your email here
+- Email: kfkiggundu@gmail.com
