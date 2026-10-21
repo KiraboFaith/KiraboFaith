@@ -12,5 +12,4 @@ Computer Science student at Uganda Christian University, based in Mukono. I buil
 - **FarmWatch**: AI-driven multipurpose farming machine for Ugandan smallholders and cooperatives, covering planting through processing on the farm. Working prototype: live web dashboard and a Tinkercad simulation of adaptive motor control.
 ## Contact
 - LinkedIn: [Faith Kirabo Kiggundu](https://www.linkedin.com/in/faith-kirabo-kiggundu)
-- Kaggle: [your-kaggle-username](https://www.kaggle.com/your-kaggle-username)
 - Email: kfkiggundu@gmail.com
